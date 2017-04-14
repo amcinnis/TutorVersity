@@ -1,3 +1,3 @@
-As a user, I want to view flights departing from multiple nearby airports, so I can select the most economical flight closest to me.
-As a user who dislikes flying, I want to find flights with the least amount of layovers so I can minimize my travel time.
-As a premium user, I want to only view flights with first-class tickets available so I can have access to first class lounges in airports.
+As a user, I want to view ratings of my tutor to see his/her overall helpfulness and effectiveness.
+As a tutor, I want a push notification sent to me when a nearby user requests a tutor for help in a subject that I have expertise in.
+As a tutor, I want to display specific subjects I tutor on a profile within the program.
