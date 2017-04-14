@@ -1,0 +1,6 @@
+ystem shall display the number of active* tutors within a 2 mile radius on the home page. 
+The system shall provide the option to be active* or inactive to a user on the settings page. 
+The system shall provide an input field for the user to submit a question on the home page. 
+The system shall display a notification with the first name of the student, the distance of that student from the user, and the question the student inputted, when a student requests a tutor. 
+The system shall provide a field for users to change their password on the settings page. 
+
