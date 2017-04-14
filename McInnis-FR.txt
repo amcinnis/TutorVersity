@@ -1,0 +1,3 @@
+The system shall provide ratings of tutors.
+The system shall allow tutors to provide their hours of availability.
+The system shall allow students to pay for their tutor from within the application.
