@@ -1,0 +1,4 @@
+1. The system shall allow the user to host* their home.  
+2. The system shall allow the user to rate their host*.  
+3. The system shall allow the user to contact their host*.  
+Just to be clear, the word “host” in the first requirement is a verb and has a different meaning from the word “host” in the second & third requirements (where it is a noun). 

@@ -1,0 +1,5 @@
+As a user, I want to select the number of adults tickets from 1 to 6 (inclusive) to purchase, so that I can order tickets for multiple people. 
+
+As a user, I want to select one language among English, Spanish, and Chinese to view the page in, so that I can understand the text. 
+
+As a user, I want to view my notifications, so that I know if changes have been made to my bookings. 
