@@ -1,1 +1,9 @@
-The system 
+The system shall provide the location of students currently requesting help.
+
+The system shall allow students to request for help in user-specified subjects.
+
+The system shall allow students to rate their tutors after the tutor session has completed.
+
+The system shall provide a picture and bio of available tutors to students requesting help.
+
+The system shall allow the student and tutor to message each other.

@@ -1,1 +1,5 @@
-As a user
+As a student, I want to request for help in any specified subject.
+
+As a tutor, I want to filter students by location and subject requested.
+
+As a student, I want to see a picture and bio of available tutors.
