@@ -1,0 +1,5 @@
+1.	The system shall allow the user to choose between math, science, and history subject tags.
+2.	The system shall allow the user(tutor) to specify the location radius.
+3.	The system shall allow the user(tutor) to specify his/her knowledge between math, science and history.
+4.	The system shall allow users to message each other privately.  
+5.	The system shall allow the user to rate the tutor from 1 to 5, inclusively. 
